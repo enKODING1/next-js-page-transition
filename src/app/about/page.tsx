@@ -1,8 +1,8 @@
-export default function Home()
+export default function About()
 {
   return(
     <section className="text-7xl font-extrabold text-center mt-10">
-      <h1>Home Page</h1>
+      <h1>About Page</h1>
     </section>
   )
 }
